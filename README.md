@@ -25,3 +25,4 @@ OpenCloudOS开源、中立的立场，为各个合作伙伴、开发者提供相
 【负责人】赖滨（腾讯）
 
 【代码仓】git@github.com:OpenCloudOS/OpenCloudOS-Kernel.git
+
